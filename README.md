@@ -37,8 +37,8 @@ I'm a student of the Technical university of Kosice. I'm interested in mobile de
   ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000.svg?style=for-the-badge&logo=intellij-idea&logoColor=black&color=black&labelColor=F22447)
   ![PhpStorm](https://img.shields.io/badge/phpstorm-000?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
   ![PyCharm](https://img.shields.io/badge/pycharm-000?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-  ![WebStorm](https://img.shields.io/badge/webstorm-000?style=for-the-badge&logo=webstorm&logoColor=white&color=black&labelColor=24C9F2)
-  ![CLion](https://img.shields.io/badge/clion-000?style=for-the-badge&logo=clion&logoColor=white&color=black&labelColor=24F2C2)
+  ![WebStorm](https://img.shields.io/badge/webstorm-000?style=for-the-badge&logo=webstorm&logoColor=black&color=black&labelColor=24C9F2)
+  ![CLion](https://img.shields.io/badge/clion-000?style=for-the-badge&logo=clion&logoColor=black&color=black&labelColor=24F2C2)
   ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-000.svg?style=for-the-badge&logo=visual-studio&logoColor=black&color=black&labelColor=5C2D91)
   
 </div>
