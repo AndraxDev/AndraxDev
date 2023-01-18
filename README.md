@@ -1,5 +1,7 @@
 <img src="https://teslasoft.org/cover.webp" width="100%"/>
 
+### My apps on &nbsp;&nbsp;<a href = "https://play.google.com/store/apps/dev?id=4918210533539249598"><img src="https://teslasoft.org/play-logo.png" width="130"/></a>
+
 <!--
 **AndraxDev/AndraxDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
