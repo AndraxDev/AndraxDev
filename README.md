@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="https://teslasoft.org/cover.webp" width="100%"/>
 
 <!--
 **AndraxDev/AndraxDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
