@@ -2,11 +2,11 @@
   <img src="https://teslasoft.org/cover.webp" width="75%"/>
 </div>
 
-## About me:
+## 📖 About me:
 
 I'm a student of the Technical university of Kosice. I'm interested in mobile development. Currently I'm working on a few hobby projects.
 
-## I'm coding with:
+## 🧑‍💻 I'm coding with:
 
 <br>
 
@@ -25,7 +25,7 @@ I'm a student of the Technical university of Kosice. I'm interested in mobile de
   
 </div>
 
-## I'm using:
+## 📚 I'm using:
 
 <div align="center">
   
@@ -34,7 +34,7 @@ I'm a student of the Technical university of Kosice. I'm interested in mobile de
   
 </div>
 
-## I'm building in:
+## 🛠️ I'm building in:
 
 <br>
 
@@ -50,7 +50,7 @@ I'm a student of the Technical university of Kosice. I'm interested in mobile de
   
 </div>
 
-## I'm also using:
+## ✔️ I'm also using:
 
 <div align="center">
 
@@ -62,7 +62,7 @@ I'm a student of the Technical university of Kosice. I'm interested in mobile de
 </div>
 
 
-## I'm learning:
+## 🎓 I'm learning:
 
 <div align="center">
   
@@ -70,7 +70,7 @@ I'm a student of the Technical university of Kosice. I'm interested in mobile de
      
 </div>
 
-## View my apps on:
+## 📱 View my apps on:
 
 <br>
 
