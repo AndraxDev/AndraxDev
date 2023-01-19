@@ -56,7 +56,18 @@ I'm a student of the Technical university of Kosice. I'm interested in mobile de
 
   <a href="https://en.wikipedia.org/wiki/Postman_(software)"><img src="https://img.shields.io/badge/-Postman-F54242?style=for-the-badge&logo=postman&logoColor=white"></a>
   <a href="https://en.wikipedia.org/wiki/SonarQube"><img src="https://img.shields.io/badge/-Sonarlint-6042F5?style=for-the-badge&logo=sonarlint&logoColor=white"></a>
+  <a href="https://en.wikipedia.org/wiki/Firebase"><img src="https://img.shields.io/badge/-Firebase-FCDF03?style=for-the-badge&logo=firebase&logoColor=black"></a>
+  <a href="https://en.wikipedia.org/wiki/Google_Cloud_Platform"><img src="https://img.shields.io/badge/-Google%20Cloud-03A5FC?style=for-the-badge&logo=Google&logoColor=white"></a>
+  
+</div>
 
+
+## I'm learning:
+
+<div align="center">
+  
+   <a href="https://en.wikipedia.org/wiki/React_(JavaScript_library)"><img src="https://img.shields.io/badge/-React-2E93FF?style=for-the-badge&logo=react&logoColor=white">
+     
 </div>
 
 ## View my apps on:
