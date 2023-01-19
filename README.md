@@ -12,16 +12,16 @@ I'm a student of the Technical university of Kosice. I'm interested in mobile de
 
 <div align="center">
   
-  ![Java](https://img.shields.io/badge/-Java-E02424?style=flat-square&logo=java&logoColor=white)
-  ![Kotlin](https://img.shields.io/badge/-Kotlin-FA3B25?style=flat-square&logo=kotlin&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/-CSS3-E0AE24?style=flat-square&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/-Javascript-E0E024?style=flat-square&logo=css3&logoColor=black)
-  ![C](https://img.shields.io/badge/-C-B4E024?style=flat-square&logo=c&logoColor=black)
-  ![C#](https://img.shields.io/badge/-C%23-B4E024?style=flat-square&logo=c-sharp&logoColor=black)
-  ![C++](https://img.shields.io/badge/-C++-5FC740?style=flat-square&logo=c%2B%2B&logoColor=white)
-  ![PHP](https://img.shields.io/badge/-PHP-40C79E?style=flat-square&logo=php&logoColor=white)
-  ![Python](https://img.shields.io/badge/-Python-24D0F2?style=flat-square&logo=python&logoColor=white)
+  <a href="https://en.wikipedia.org/wiki/Java_(programming_language)"><img src="https://img.shields.io/badge/-Java-E02424?style=flat-square&logo=java&logoColor=white"></a>
+  <a href="https://kotlinlang.org/"><img src="https://img.shields.io/badge/-Kotlin-FA3B25?style=flat-square&logo=kotlin&logoColor=white"></a>
+  <a href="https://en.wikipedia.org/wiki/HTML5"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"></a>
+  <a href="https://en.wikipedia.org/wiki/CSS"><img src="https://img.shields.io/badge/-CSS3-E0AE24?style=flat-square&logo=css3&logoColor=white"></a>
+  <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://img.shields.io/badge/-Javascript-E0E024?style=flat-square&logo=css3&logoColor=black"></a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/-C-B4E024?style=flat-square&logo=c&logoColor=black"></a>
+  <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"><img src="https://img.shields.io/badge/-C%23-B4E024?style=flat-square&logo=c-sharp&logoColor=black"></a>
+  <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://img.shields.io/badge/-C++-5FC740?style=flat-square&logo=c%2B%2B&logoColor=white"></a>
+  <a href="https://en.wikipedia.org/wiki/PHP"><img src="https://img.shields.io/badge/-PHP-40C79E?style=flat-square&logo=php&logoColor=white"></a>
+  <a href="https://en.wikipedia.org/wiki/Python_(programming_language)"><img src="https://img.shields.io/badge/-Python-24D0F2?style=flat-square&logo=python&logoColor=white"></a>
   
 </div>
 
@@ -29,8 +29,8 @@ I'm a student of the Technical university of Kosice. I'm interested in mobile de
 
 <div align="center">
   
-  ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-  ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=JSON%20web%20tokens&logoColor=white)
+  <a href="https://en.wikipedia.org/wiki/Android_SDK"><img src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white"></a>
+  <a href="https://jwt.io/"><img src="https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=JSON%20web%20tokens&logoColor=white"></a>
   
 </div>
 
@@ -54,8 +54,8 @@ I'm a student of the Technical university of Kosice. I'm interested in mobile de
 
 <div align="center">
 
-  ![Postman](https://img.shields.io/badge/-Postman-F54242?style=for-the-badge&logo=postman&logoColor=white)
-  ![Postman](https://img.shields.io/badge/-Sonarlint-6042F5?style=for-the-badge&logo=sonarlint&logoColor=white)
+  <a href="https://en.wikipedia.org/wiki/Postman_(software)"><img src="https://img.shields.io/badge/-Postman-F54242?style=for-the-badge&logo=postman&logoColor=white"></a>
+  <a href="https://en.wikipedia.org/wiki/SonarQube"><img src="https://img.shields.io/badge/-Sonarlint-6042F5?style=for-the-badge&logo=sonarlint&logoColor=white"></a>
 
 </div>
 
