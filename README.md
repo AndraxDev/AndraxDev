@@ -22,8 +22,15 @@ I'm a student of the Technical university of Kosice. I'm interested in mobile de
   ![C++](https://img.shields.io/badge/-C++-5FC740?style=flat-square&logo=c%2B%2B&logoColor=white)
   ![PHP](https://img.shields.io/badge/-PHP-40C79E?style=flat-square&logo=php&logoColor=white)
   ![Python](https://img.shields.io/badge/-Python-24D0F2?style=flat-square&logo=python&logoColor=white)
-  ![Android](https://img.shields.io/badge/-Android-24A3F2?style=flat-square&logo=android&logoColor=white)
-  ![JWT](https://img.shields.io/badge/-JWT-2451F2?style=flat-square&logo=JSON%20web%20tokens&logoColor=white)
+  
+</div>
+
+## I'm using:
+
+<div align="center">
+  
+  ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+  ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=JSON%20web%20tokens&logoColor=white)
   
 </div>
 
@@ -43,6 +50,15 @@ I'm a student of the Technical university of Kosice. I'm interested in mobile de
   
 </div>
 
+## I'm also using:
+
+<div align="center">
+
+  ![Postman](https://img.shields.io/badge/-Postman-F54242?style=for-the-badge&logo=postman&logoColor=white)
+  ![Postman](https://img.shields.io/badge/-Sonarlint-6042F5?style=for-the-badge&logo=sonarlint&logoColor=white)
+
+</div>
+
 ## View my apps on:
 
 <br>
@@ -50,18 +66,3 @@ I'm a student of the Technical university of Kosice. I'm interested in mobile de
 <div align="center">
   <a href = "https://play.google.com/store/apps/dev?id=4918210533539249598"><img src="https://teslasoft.org/play-logo.png" width="150"/></a>
 </div>
-
-<!--
-**AndraxDev/AndraxDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
