@@ -4,7 +4,7 @@
 
 ## 📖 About me:
 
-I'm a student of the Technical university of Kosice. I'm interested in mobile development. Currently I'm working on a few hobby projects.
+I'm a student at the Technical University of Košice, where I'm studying to become an expert in the field of technology. With a focus on Android and Java development, I have already demonstrated my skills and dedication to the industry by developing some hobby projects.
 
 ## 🧑‍💻 I'm coding with:
 
