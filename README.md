@@ -83,5 +83,5 @@ I'm a student at the Technical University of Košice, where I'm studying to beco
 <br>
 
 <div align="center">
-  <a href = "https://andrax.teslasoft.org/"><img src="https://img.shields.io/badge/-andrax.teslasoft.org-DB4437?style=flat-square" width="150"/></a>
+  <a href = "https://andrax.dev/"><img src="https://img.shields.io/badge/-andrax.dev-DB4437?style=flat-square" width="150"/></a>
 </div>
