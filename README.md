@@ -67,6 +67,7 @@ I'm a student at the Technical University of Košice, where I'm studying to beco
 <div align="center">
   
    <a href="https://en.wikipedia.org/wiki/React_(JavaScript_library)"><img src="https://img.shields.io/badge/-React-2E93FF?style=for-the-badge&logo=react&logoColor=white">
+   <a href="https://spring.io/"><img src="https://img.shields.io/badge/-Spring-229900?style=for-the-badge&logo=spring&logoColor=white">
      
 </div>
 
