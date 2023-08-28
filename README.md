@@ -58,6 +58,7 @@ I'm a student at the Technical University of Košice, where I'm studying to beco
 
   <a href="https://en.wikipedia.org/wiki/Postman_(software)"><img src="https://img.shields.io/badge/-Postman-F54242?style=for-the-badge&logo=postman&logoColor=white"></a>
   <a href="https://en.wikipedia.org/wiki/SonarQube"><img src="https://img.shields.io/badge/-Sonarlint-6042F5?style=for-the-badge&logo=sonarlint&logoColor=white"></a>
+  <a href="https://en.wikipedia.org/wiki/ChatGPT"><img src="https://img.shields.io/badge/-ChatGPT-00C98D?style=for-the-badge&logo=openai&logoColor=white"></a>
   
 </div>
 
