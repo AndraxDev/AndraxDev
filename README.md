@@ -33,6 +33,7 @@ I'm a student at the Technical University of Košice, where I'm studying to beco
   <a href="https://jwt.io/"><img src="https://img.shields.io/badge/-JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white"></a>
   <a href="https://en.wikipedia.org/wiki/Firebase"><img src="https://img.shields.io/badge/-Firebase-FCDF03?style=for-the-badge&logo=firebase&logoColor=black"></a>
   <a href="https://en.wikipedia.org/wiki/Google_Cloud_Platform"><img src="https://img.shields.io/badge/-Google%20Cloud-03A5FC?style=for-the-badge&logo=Google&logoColor=white"></a>
+  <a href="https://developer.android.com/google/play/integrity"><img src="https://img.shields.io/badge/-Play%20Integrity%20API-4EA373?style=for-the-badge&logo=Google+play&logoColor=white"></a>
   
 </div>
 
