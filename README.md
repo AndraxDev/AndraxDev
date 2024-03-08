@@ -18,7 +18,8 @@ Currently I'm working on multiple full-stack commercial projects. Some of these 
 
 - Starting from Spring 2022 I'm a member of Board of European Students of Technology
 - In 2022 I was professors assistant to help new students in our university
-- Starting from 2023 I'm teaching subject "Basics of algorithmization and programming"
+- Starting 2023 I'm teaching subject "Basics of algorithmization and programming"
+- Starting 2024 I'm teaching subject "Programming"
 
 ## 🏓 Hobbies:
 
