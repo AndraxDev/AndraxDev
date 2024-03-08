@@ -10,6 +10,7 @@ I'm a student at the Technical University of Košice, where I'm studying to beco
 
 Currently I'm working on multiple full-stack commercial projects. Some of these projects:
 
+- SpeakGPT - A powerful mobile assistant that utilizes latest OpenAI APIs including text generation, image generation, voice recognition and generation. Currently exists experimental support for Microsoft Windows and Desktop Google Chrome.
 - CMCChat - Mobile AI assistant for disabled or elder people.
 - DZS - Public transport management system
 
