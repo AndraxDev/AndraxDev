@@ -5,6 +5,7 @@
 ## 📖 About me:
 
 I'm a student at the Technical University of Košice, where I'm studying to become an expert in the field of technology. With a focus on Android and Java development, I have already demonstrated my skills and dedication to the industry by developing some hobby projects.
+Experienced developer with 3+ years of frontend and backend development. I have experience using Google Cloud Services including Firebase services, Maps SDK, IAM. I have experience in mentoring junior team members. Speak English fluently. I have experience working both solo and in a team.
 
 ## ✨ Experience:
 
