@@ -81,7 +81,7 @@ Along with programming I'm interesed in: Sporting (Camping, GYM), nature, collec
   <a href="https://en.wikipedia.org/wiki/SonarQube"><img src="https://img.shields.io/badge/-Sonarlint-6042F5?style=for-the-badge&logo=sonarlint&logoColor=white"></a>
   <a href="https://en.wikipedia.org/wiki/ChatGPT"><img src="https://img.shields.io/badge/-ChatGPT-00C98D?style=for-the-badge&logo=openai&logoColor=white"></a>
   <a href="https://en.wikipedia.org/wiki/Flask"><img src="https://img.shields.io/badge/-Flask-2D4E69?style=for-the-badge&logo=flask&logoColor=white"></a>
-  <a href="https://en.wikipedia.org/wiki/React_(JavaScript_library)"><img src="https://img.shields.io/badge/-React-2E93FF?style=for-the-badge&logo=react&logoColor=white">
+  <a href="https://en.wikipedia.org/wiki/React_(JavaScript_library)"><img src="https://img.shields.io/badge/-React-2E93FF?style=for-the-badge&logo=react&logoColor=white"></a>
   
 </div>
 
@@ -90,9 +90,9 @@ Along with programming I'm interesed in: Sporting (Camping, GYM), nature, collec
 
 <div align="center">
   
-   <a href="https://spring.io/"><img src="https://img.shields.io/badge/-Spring-229900?style=for-the-badge&logo=spring&logoColor=white">
-   <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/-TensorFlow-ff0000?style=for-the-badge&logo=tensorflow&logoColor=white">
-   <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/-PyTorch-ff3d00?style=for-the-badge&logo=pytorch&logoColor=white">
+   <a href="https://spring.io/"><img src="https://img.shields.io/badge/-Spring-229900?style=for-the-badge&logo=spring&logoColor=white"></a>
+   <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/-TensorFlow-ff0000?style=for-the-badge&logo=tensorflow&logoColor=white"></a>
+   <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/-PyTorch-ff3d00?style=for-the-badge&logo=pytorch&logoColor=white"></a>
 
 </div>
 
