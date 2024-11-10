@@ -11,6 +11,7 @@ Experienced developer with 3+ years of frontend and backend development. I have 
 
 Currently I'm working on multiple full-stack commercial projects. Some of these projects:
 
+- PegaCons - an AR app that allows you to maintain antennas and towers without hands. This app is designed for enterprise models of RealWear Navigator. Basic features: Near antennas map, identify antenna by using QR code. View your tasks and media associated with the selected antenna. Use your voice to navigate through the app. Customer: Deutsche Telekom IT Solutions Europe
 - SpeakGPT - A powerful mobile assistant that utilizes latest OpenAI APIs including text generation, image generation, voice recognition and generation. Currently exists experimental support for Microsoft Windows and Desktop Google Chrome.
 - CMCChat - Mobile AI assistant for disabled or elder people.
 - DZS - Public transport management system
