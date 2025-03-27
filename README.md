@@ -5,21 +5,26 @@
 ## 📖 About me:
 
 I'm a student at the Technical University of Košice, where I'm studying to become an expert in the field of technology. With a focus on Android and Java development, I have already demonstrated my skills and dedication to the industry by developing some hobby projects.
-Experienced developer with 3+ years of frontend and backend development. I have experience using Google Cloud Services including Firebase services, Maps SDK, IAM. I have experience in mentoring junior team members. Speak English fluently. I have experience working both solo and in a team.
+Experienced developer with 4+ years of frontend and backend development. I have experience using Google Cloud Services, including Firebase services, Maps SDK, and IAM. I have experience mentoring junior team members. Speak English fluently. I have experience working both solo and in a team.
 
 ## ✨ Experience:
 
-Currently I'm working on multiple full-stack commercial projects. Some of these projects:
+Currently I'm working on multiple full-stack commercial and non-commercial projects.
+Currently I'm working in these projects:
+- <a href="https://assistant.teslasoft.org/">SpeakGPT</a> - A powerful mobile assistant that utilizes latest OpenAI APIs including text generation, image generation, voice recognition and generation. Currently exists experimental support for Microsoft Windows and Desktop Google Chrome. This project is a part of <a href = "https://teslasoft.org/.">Teslasoft Ecosystem</a>.
+- Re-Use Center Kosice Web Portal - Together with a team from <a href = "https://www.ibm.com/">IBM</a> we are developing a convenient place for exchanging used items where people who need some items (like electronics) can obtain them for free from volunteers who no longer need such items. This portal will guarantee transparency of volunteers (organizations participating in the project) and quality of provided items. All providers and volunteers pass strict verification, and all used items must meet minimum quality requirements. Additionally, this project will develop circular economics, and reduce carbon emissions by reducing market demand, and give used items a second life.
 
-- PegaCons - an AR app that allows you to maintain antennas and towers without hands. This app is designed for enterprise models of RealWear Navigator. Basic features: Near antennas map, identify antenna by using QR code. View your tasks and media associated with the selected antenna. Use your voice to navigate through the app. Customer: Deutsche Telekom IT Solutions Europe
-- SpeakGPT - A powerful mobile assistant that utilizes latest OpenAI APIs including text generation, image generation, voice recognition and generation. Currently exists experimental support for Microsoft Windows and Desktop Google Chrome.
+My past activities:
+
+- PegaCons - an AR app that allows you to maintain antennas and towers without hands. This app is designed for enterprise models of RealWear Navigator. Basic features: Near antennas map; identify antenna by using QR code. View your tasks and media associated with the selected antenna. Use your voice to navigate through the app. Customer: Deutsche Telekom IT Solutions Europe.
 - CMCChat - Mobile AI assistant for disabled or elder people.
 - DZS - Public transport management system
 
 ## 📦 Volunteering:
 
+- Starting from Januare 2024 I'm collaborating with <a href = "https://www.ibm.com/">IBM</a> on non-commercial project for Re-Use Center Kosice
 - Starting from Spring 2022 I'm a member of Board of European Students of Technology
-- In 2022 I was professors assistant to help new students in our university
+- Starting from 2022 I'm professor's assistant to help new students in our university
 - Starting 2023 I'm teaching subject "Basics of algorithmization and programming"
 - Starting 2024 I'm teaching subject "Programming"
 
